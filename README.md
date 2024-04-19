@@ -70,26 +70,7 @@ dobro do percentual do ano anterior. Faça um programa que determine o
 salário atual desse funcionário. Após concluir isto, altere o programa
 permitindo que o usuário digite o salário inicial do funcionário.
 
-14 - Faça um programa que leia uma quantidade indeterminada de números positivos e
-conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100].
-A entrada de dados deverá terminar quando for lido um número negativo.
 
-15 - Em uma eleição presidencial existem quatro candidatos. Os votos são informados
-por meio de código. Os códigos utilizados são:
-1 , 2, 3, 4 - Votos para os respectivos candidatos
-(você deve montar a tabela ex: 1 - Jose/ 2- João/etc)
-
-5 - Voto Nulo
-
-6 - Voto em Branco
-
-Faça um programa que calcule e mostre:
-
-O total de votos para cada candidato;
-
-O total de votos nulos;
-
-O total de votos em branco;
 
 
 A percentagem de votos nulos sobre o total de votos;
